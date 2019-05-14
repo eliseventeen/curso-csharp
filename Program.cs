@@ -25,6 +25,7 @@ namespace estudosCSharp
             System.Console.WriteLine("Rhayssa " + rhayssa.Saldo());
             System.Console.WriteLine("_____________________________");
             System.Console.WriteLine("Console");
+            System.Console.WriteLine("Outro console");
 
         }
     }
